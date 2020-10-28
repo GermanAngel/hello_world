@@ -1,6 +1,6 @@
 # Hello World
 
-In this repository the code for printing "Hello World" in Python in the terminal is given. 
+In this repository the code for printing "hello world" in Python in the terminal is given. 
 
 The screenshot below shows the code itself as well as the output.
 

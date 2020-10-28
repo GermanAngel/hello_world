@@ -1,4 +1,4 @@
-# Hello World
+# hello horld
 
 In this repository the code for printing "hello world" in Python in the terminal is given. 
 
